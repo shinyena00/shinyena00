@@ -31,15 +31,6 @@
 | **[Mini DBMS](https://github.com/Jihyun0511/Jungle7-dbms)** | `Python` | 파이썬으로 만든 작은 DB |
 | **Web Server** | `C` | 지금 만드는 중 🚧 |
 
-<br>
-
-### 🌱 Currently Learning
-
-```text
-▸ Operating Systems
-▸ Data Structures & Algorithms in C
-▸ Network & Web Server
-```
 
 <br>
 
