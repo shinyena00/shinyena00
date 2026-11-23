@@ -32,10 +32,10 @@
 
 | Project | Lang | Description |
 | :-- | :--: | :-- |
-| **[Pintos](https://github.com/shinyena00/pintos)** | `C` | 교육용 OS 커널 — 스레드 스케줄링, 시스템 콜, 가상 메모리(COW) 구현 |
-| **Redis** | `C` | C로 직접 구현한 인메모리 키-값 저장소 |
-| **DBMS** | `C` | 직접 만들어 본 미니 데이터베이스 |
-| **Web Server** | `C` | C로 구현한 HTTP 웹 서버 |
+| **[Pintos](https://github.com/shinyena00/pintos)** | `C` | KAIST PintOS — 우선순위 스케줄링, 유저 프로그램·시스템 콜, 가상 메모리(swap·mmap), Copy-on-Write 구현 |
+| **[Mini Redis](https://github.com/shinyena00/Jungle7-redis)** | `C` | TCP 위 RESP 프로토콜, 스레드 1개 + epoll 이벤트 루프, 해시 테이블 · 키 만료(EX) |
+| **[Mini DBMS](https://github.com/Jihyun0511/Jungle7-dbms)** | `Python` | CSV 파일 기반 SQL 처리, B+ 트리 인덱스, 스레드 풀 + 락 · Mini Redis를 앞단 캐시로 연결 (MISS 약 300ms → HIT 약 3ms) |
+| **Web Server** | `C` | 🚧 진행 중 — C로 구현하는 HTTP 웹 서버 · 프록시 |
 
 <br>
 
