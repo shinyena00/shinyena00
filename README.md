@@ -10,16 +10,19 @@
 
 <table>
   <tr>
-    <td align="center" width="160"><b>Language</b></td>
-    <td><img src="https://skillicons.dev/icons?i=c,python" /></td>
+    <td align="center" width="140"><b>Language</b></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="48" /><br><sub><b>C</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" /><br><sub><b>Python</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><b>Backend & DB</b></td>
-    <td><img src="https://skillicons.dev/icons?i=flask,mongodb" /></td>
+    <td align="center" width="140"><b>Backend & DB</b></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask" width="48" /><br><sub><b>Flask</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" /><br><sub><b>MongoDB</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css" /></td>
+    <td align="center" width="140"><b>Frontend</b></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" /><br><sub><b>HTML5</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" /><br><sub><b>CSS3</b></sub></td>
   </tr>
 </table>
 
@@ -48,8 +51,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shinyena00&show_icons=true&hide_border=true&border_radius=12&bg_color=0d1117&title_color=22C55E&icon_color=22C55E&text_color=c9d1d9&ring_color=22C55E" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinyena00&layout=compact&hide=c%2B%2B,perl&hide_border=true&border_radius=12&bg_color=0d1117&title_color=22C55E&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shinyena00&show_icons=true&hide=stars,contribs&commits_year=2026&custom_title=My%20GitHub%20Activity&hide_border=false&border_radius=14&bg_color=ffffff&border_color=e5e7eb&title_color=111827&text_color=4b5563&icon_color=22C55E&ring_color=22C55E" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinyena00&layout=compact&hide=c%2B%2B,perl&hide_border=false&border_radius=14&bg_color=ffffff&border_color=e5e7eb&title_color=111827&text_color=4b5563&icon_color=22C55E&ring_color=22C55E" />
 </div>
 
 <br>
