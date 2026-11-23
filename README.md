@@ -32,10 +32,10 @@
 
 | Project | Lang | Description |
 | :-- | :--: | :-- |
-| **[Pintos](https://github.com/shinyena00/pintos)** | `C` | KAIST PintOS — 우선순위 스케줄링, 유저 프로그램·시스템 콜, 가상 메모리(swap·mmap), Copy-on-Write 구현 |
-| **[Mini Redis](https://github.com/shinyena00/Jungle7-redis)** | `C` | TCP 위 RESP 프로토콜, 스레드 1개 + epoll 이벤트 루프, 해시 테이블 · 키 만료(EX) |
-| **[Mini DBMS](https://github.com/Jihyun0511/Jungle7-dbms)** | `Python` | CSV 파일 기반 SQL 처리, B+ 트리 인덱스, 스레드 풀 + 락 · Mini Redis를 앞단 캐시로 연결 (MISS 약 300ms → HIT 약 3ms) |
-| **Web Server** | `C` | 🚧 진행 중 — C로 구현하는 HTTP 웹 서버 · 프록시 |
+| **[Pintos](https://github.com/shinyena00/pintos)** | `C` | 팀원들과 OS 커널 채우기. 스레드 → 유저 프로그램 → 가상 메모리, 마지막엔 COW까지 |
+| **[Mini Redis](https://github.com/shinyena00/Jungle7-redis)** | `C` | 캐시로 쓰려고 만든 작은 Redis. epoll로 스레드 하나가 여러 연결을 받음 |
+| **[Mini DBMS](https://github.com/Jihyun0511/Jungle7-dbms)** | `Python` | 파이썬으로 만든 작은 DB. 앞에 Mini Redis를 붙였더니 조회가 300ms → 3ms |
+| **Web Server** | `C` | 지금 만드는 중 🚧 |
 
 <br>
 
