@@ -1,22 +1,50 @@
-## 🛠️ Tech Stack
+<div align="center">
 
-**Languages**<br>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=520&lines=Building+things+from+scratch+in+C;Krafton+Jungle+7th;Always+debugging%2C+always+learning" alt="typing" />
 
-**Frontend**<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white">
+</div>
 
-## 🔧 Built from Scratch
+<br>
 
-- **Redis** — C로 직접 구현한 인메모리 키-값 저장소
-- **DBMS** — 직접 만들어 본 미니 데이터베이스
-- **Web Server** — C로 구현한 HTTP 웹 서버
+### 🧰 Tech Stack
 
-## 🌱 Currently Learning
+<table>
+  <tr>
+    <td align="center" width="160"><b>Language</b></td>
+    <td><img src="https://skillicons.dev/icons?i=c,python" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend & DB</b></td>
+    <td><img src="https://skillicons.dev/icons?i=flask,mongodb" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css" /></td>
+  </tr>
+</table>
 
-- Operating Systems
-- Data Structures & Algorithms in C
-- Network & Web Server
-- Krafton Jungle 7기
+<br>
+
+### 🔧 Built from Scratch
+
+| Project | Lang | Description |
+| :-- | :--: | :-- |
+| **Redis** | `C` | C로 직접 구현한 인메모리 키-값 저장소 |
+| **DBMS** | `C` | 직접 만들어 본 미니 데이터베이스 |
+| **Web Server** | `C` | C로 구현한 HTTP 웹 서버 |
+
+<br>
+
+### 🌱 Currently Learning
+
+```text
+▸ Operating Systems
+▸ Data Structures & Algorithms in C
+▸ Network & Web Server
+```
+
+<br>
+
+<div align="center">
+  <sub>🐢 slow but steady · Krafton Jungle 7기</sub>
+</div>
