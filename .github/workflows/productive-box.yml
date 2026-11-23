@@ -1,0 +1,25 @@
+name: Sync productive-box
+
+on:
+  schedule:
+    - cron: "30 0 * * *" # productive-box(00:00 UTC)가 gist를 갱신한 뒤
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python .github/scripts/sync_productive_box.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit if changed
+        run: |
+          git diff --quiet README.md && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "chore: update productive-box"
+          git push

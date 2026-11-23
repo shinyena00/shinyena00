@@ -58,6 +58,16 @@
 
 <br>
 
+### ⏰ When I Commit
+
+<!-- productive-box:start -->
+```text
+매일 자동으로 업데이트돼요 ⏳
+```
+<!-- productive-box:end -->
+
+<br>
+
 <div align="center">
   <sub>🐢 slow but steady · Krafton Jungle 7기</sub>
 </div>
