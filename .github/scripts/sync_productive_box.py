@@ -1,5 +1,6 @@
 """productive-box gist 내용을 README의 표시 구간에 옮겨 적는다."""
 import re
+import time
 import urllib.request
 
 # raw 주소는 API 토큰 없이 읽을 수 있다 (Actions 기본 토큰은 gist API에서 403)
@@ -10,7 +11,8 @@ END = "<!-- productive-box:end -->"
 
 
 def fetch_gist_content():
-    with urllib.request.urlopen(GIST_RAW_URL) as response:
+    # raw 주소는 몇 분간 캐시되므로 매번 다른 주소로 요청한다
+    with urllib.request.urlopen(f"{GIST_RAW_URL}?t={int(time.time())}") as response:
         return response.read().decode("utf-8").rstrip()
 
 
