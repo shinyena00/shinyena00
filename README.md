@@ -56,8 +56,13 @@
 ### ⏰ When I Commit
 
 <!-- productive-box:start -->
+**I'm an early 🐤**
+
 ```text
-매일 자동으로 업데이트돼요 ⏳
+🌞 Morning    75 commits  ███▋░░░░░░░░░░░░░░░░░  17.5%
+🌆 Daytime   177 commits  ████████▋░░░░░░░░░░░░  41.3%
+🌃 Evening   151 commits  ███████▍░░░░░░░░░░░░░  35.2%
+🌙 Night      26 commits  █▎░░░░░░░░░░░░░░░░░░░   6.1%
 ```
 <!-- productive-box:end -->
 
