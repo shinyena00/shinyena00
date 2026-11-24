@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="304" height="145" viewBox="0 0 304 145">
+<style>
+.title { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #111827; }
+.label { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #4b5563; }
+.value { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #4b5563; }
+</style>
+<rect x="0.5" y="0.5" width="303" height="144" fill="#ffffff" stroke="#e5e7eb"/>
+<text x="25" y="35" class="title">I&#x27;m an early 🐤</text>
+<text x="25" y="62" class="label">🌞 Morning</text><rect x="120" y="54" width="110" height="8" fill="#e5e7eb"/><rect x="120" y="54" width="19.2" height="8" fill="#22C55E"/><text x="279" y="62" class="value" text-anchor="end">17.5%</text><text x="25" y="83" class="label">🌆 Daytime</text><rect x="120" y="75" width="110" height="8" fill="#e5e7eb"/><rect x="120" y="75" width="45.4" height="8" fill="#22C55E"/><text x="279" y="83" class="value" text-anchor="end">41.3%</text><text x="25" y="104" class="label">🌃 Evening</text><rect x="120" y="96" width="110" height="8" fill="#e5e7eb"/><rect x="120" y="96" width="38.7" height="8" fill="#22C55E"/><text x="279" y="104" class="value" text-anchor="end">35.2%</text><text x="25" y="125" class="label">🌙 Night</text><rect x="120" y="117" width="110" height="8" fill="#e5e7eb"/><rect x="120" y="117" width="6.7" height="8" fill="#22C55E"/><text x="279" y="125" class="value" text-anchor="end">6.1%</text>
+</svg>

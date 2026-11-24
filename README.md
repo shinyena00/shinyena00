@@ -33,21 +33,7 @@
 <div align="center">
   <img width="320" height="153" src="https://github-readme-stats.vercel.app/api?username=shinyena00&show_icons=true&card_width=304&hide=stars,contribs&hide_rank=true&commits_year=2026&custom_title=My%20GitHub%20Activity&hide_border=false&border_radius=0&bg_color=ffffff&border_color=e5e7eb&title_color=111827&text_color=4b5563&icon_color=22C55E&ring_color=22C55E" />
   <img width="320" height="153" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinyena00&layout=compact&hide=c%2B%2B,perl&langs_count=4&card_width=304&hide_border=false&border_radius=0&bg_color=ffffff&border_color=e5e7eb&title_color=111827&text_color=4b5563&icon_color=22C55E&ring_color=22C55E" />
+  <img width="320" height="153" src="./productive-box.svg" />
 </div>
-
-<br>
-
-### ⏰ When I Commit
-
-<!-- productive-box:start -->
-**I'm an early 🐤**
-
-```text
-🌞 Morning    75 commits  ███▋░░░░░░░░░░░░░░░░░  17.5%
-🌆 Daytime   177 commits  ████████▋░░░░░░░░░░░░  41.3%
-🌃 Evening   151 commits  ███████▍░░░░░░░░░░░░░  35.2%
-🌙 Night      26 commits  █▎░░░░░░░░░░░░░░░░░░░   6.1%
-```
-<!-- productive-box:end -->
 
 <br>
