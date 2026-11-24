@@ -2,23 +2,17 @@
 
 ### 🧰 Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="140"><b>Language</b></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="48" /><br><sub><b>C</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48" /><br><sub><b>Python</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="140"><b>Backend & DB</b></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask" width="48" /><br><sub><b>Flask</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" /><br><sub><b>MongoDB</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="140"><b>Frontend</b></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" /><br><sub><b>HTML5</b></sub></td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" /><br><sub><b>CSS3</b></sub></td>
-  </tr>
-</table>
+#### Languages
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+#### Backend & DB
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+
+#### Frontend
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white">
 
 <br>
 
