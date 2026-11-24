@@ -48,7 +48,3 @@
 <!-- productive-box:end -->
 
 <br>
-
-<div align="center">
-  <sub>🐢 slow but steady · Krafton Jungle 7기</sub>
-</div>
